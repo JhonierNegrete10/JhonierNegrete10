@@ -24,7 +24,6 @@ I help organizations move AI from experimental demos to mission-critical product
 
 | **Name** | **Description** |
 |----------|-----------------|
-| 🌐 [portfolio-jnegretedev](https://github.com/JhonierNegrete10/portfolio-jnegretedev) | My bilingual portfolio — Astro 5, typed content, deployed on Vercel at [jnegrete.dev](https://jnegrete.dev) |
 | 🗣️ [tts-fastapi-app](https://github.com/JhonierNegrete10/tts-fastapi-app) | TTSFlow — scalable TTS with MMS-TTS, FastAPI + AWS Lambda + Streamlit + Docker (AI specialization capstone) |
 | 🐍 [ScrapyTube](https://github.com/JhonierNegrete10/ScrapyTube) | Web scraping + NLP over YouTube playlists |
 | 🦾 [Delta-Robot](https://github.com/JhonierNegrete10/Delta-Robot) | Thesis: 3-DOF delta robot — Python GUI + ESP32 firmware |
